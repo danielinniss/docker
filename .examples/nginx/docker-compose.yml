@@ -1,4 +1,4 @@
-name: matomo
+version: '3'
 
 services:
   db:
